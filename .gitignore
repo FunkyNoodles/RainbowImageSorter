@@ -6,9 +6,15 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.sln
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+Image Spectrum for Desktop Background/images/
+Image Spectrum for Desktop Background/images-arranged/
+Image Spectrum for Desktop Background/test-images/
+Image Spectrum for Desktop Background/test-images-arranged/
+
 
 # Build results
 [Dd]ebug/
